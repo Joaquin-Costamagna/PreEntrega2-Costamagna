@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.imgh1{
+    width: 100%;
+}
+
+.imgh2{
+    width: 90%;
+    height: 30%;
+}
+
+.imgh3 {
+    width: 60%;
+    height: 100%;
+
+}
+
+.borde_arriba{
+    border-top: 10px solid rgb(223, 44, 20);
+}
+
+.espaciado_header {
+    padding-top: 3px;
+}
+
+
+.cont_links {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(115,115,115,1) 54%, rgba(41,43,44,1) 91%);
+}
+
+
+.altura {
+    height: 100px;
+
+}
+
+.imgi1 {
+    width: 100%;
+
+
+}
+
+
+
+.links {
+   justify-content: space-evenly;
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+    
+}
